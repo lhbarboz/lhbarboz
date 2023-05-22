@@ -1,7 +1,5 @@
 ### Olá! Eu sou a Luiza Helena Barboza
 
-- 🌱 Estudando python
-
 <a href="https://github.com/anuraghazra/github-readme-stats">
   <img width="45%" src="https://github-readme-stats.vercel.app/api?username=lhbarboz&theme=dracula&show_icons=true" />
 </a>
