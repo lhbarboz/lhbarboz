@@ -17,12 +17,10 @@
 Interessada por tecnologia desde pequena, atualmente estou cursando o 2º semestre de Sistemas de Informação na UFMS, universidade federal de Mato Grosso do Sul.
 
 ## O que estou estudando atualmente
+<img align="right" alt="Luiza-gif" src="https://cdn.discordapp.com/attachments/1110267487691477025/1110268530416422994/ezgif-2-2240e67b64.gif">
 
 - Algoritmos e Programação 2
 - Banco de dados
 - Comportamento Humano-Organizacional
 - Matemática elementar
 - Cursos online de Front-End
-
-##
- <img align="right" alt="Luiza-gif" src="https://cdn.discordapp.com/attachments/1110267487691477025/1110268530416422994/ezgif-2-2240e67b64.gif">
