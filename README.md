@@ -1,6 +1,6 @@
 ### Olá! Eu sou a Luiza Helena Barboza 💡
 
-[![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](www.linkedin.com/in/luiza-helena-barboza-2a008b278)
+[![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/luiza-helena-barboza-2a008b278/)
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:contatolhbarboz@gmail.com)
 
 
