@@ -14,7 +14,7 @@
     <img align="center" alt="python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" />
 </div><br/>
 
-Interessada por tecnologia desde pequena, atualmente estou cursando o 2º semestre de Sistemas de Informação na UFMS, universidade federal de Mato Grosso do Sul.
+Interessada por tecnologia desde pequena, atualmente estou cursando o 5º semestre de Sistemas de Informação na UFMS, universidade federal de Mato Grosso do Sul.
 
 ## O que estou estudando atualmente
 <img align="right" alt="Luiza-gif" src="https://cdn.discordapp.com/attachments/1110267487691477025/1133524799470174279/luiza.gif">
