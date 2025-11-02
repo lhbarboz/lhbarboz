@@ -14,13 +14,14 @@
     <img align="center" alt="python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" />
 </div><br/>
 
-Interessada por tecnologia desde pequena, atualmente estou cursando o 5º semestre de Sistemas de Informação na UFMS, universidade federal de Mato Grosso do Sul.
+Iniciei no desenvolvimento em 2022 e atualmente estou no 6⁰ semestre da faculdade, me reconheço como admiradora da tecnologia e sempre estou aprendendo e aprimorando minhas habilidades. 
+
+Atualmente, possuo foco em desenvolvimento em Python, C e Java.
 
 ## O que estou estudando atualmente
 <img align="right" alt="Luiza-gif" src="https://cdn.discordapp.com/attachments/1110267487691477025/1133524799470174279/luiza.gif">
 
-- Algoritmos e Programação 2
-- Banco de dados
-- Comportamento Humano-Organizacional
-- Matemática elementar
-- Cursos online de Front-End
+- Qualidade de Software
+- Técnicas Avançadas em Desenvolvimento de Software
+- Computação Distribuída
+- Estrutura de Dados
