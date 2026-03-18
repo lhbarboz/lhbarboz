@@ -49,8 +49,16 @@ Iniciei minha jornada no desenvolvimento em 2022. Atualmente, curso o 7º semest
 ### 📊 Estatísticas do GitHub
 
 <p align="center">
-  <img height="180em" src="https://streak-stats.demolab.com/?user=lhbarboz&locale=en&mode=daily&theme=dark&hide_border=false&border_radius=5&order=3"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lhbarboz&layout=compact&langs_count=7&theme=dark"/>
+  <table align="center" border="0">
+    <tr>
+      <td align="center">
+        <img height="180em" src="https://streak-stats.demolab.com/?user=lhbarboz&locale=en&mode=daily&theme=dark&hide_border=false&border_radius=5&order=3"/>
+      </td>
+      <td align="center">
+        <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lhbarboz&theme=dark&layout=compact"/>
+      </td>
+    </tr>
+  </table>
 </p>
 
 ---
