@@ -19,29 +19,38 @@ Iniciei minha jornada no desenvolvimento em 2022. Atualmente, curso o 7º semest
 
 ### 🛠️ Tecnologias & Ferramentas
 
-**Desenvolvimento & Web**
+**Desenvolvimento e Web**
 
 <div style="display: inline-block">
-<img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
-<img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" />
-<img src="https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=c&logoColor=white" />
-<img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
-<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
+<img src="https://icon.icepanel.io/Technology/svg/Python.svg", width = 50, height = 50 />
+<img src="https://icon.icepanel.io/Technology/svg/Java.svg", width = 50, height = 50 />
+<img src="https://icon.icepanel.io/Technology/svg/C.svg", width = 50, height = 50 />
+<img src="https://icon.icepanel.io/Technology/svg/HTML5.svg", width = 50, height = 50 />
+<img src="https://icon.icepanel.io/Technology/svg/JavaScript.svg", width = 50, height = 50 />
 </div>
 
-**Dados & Banco de Dados**
+**Dados e Banco de Dados**
 
 <div style="display: inline-block">
-<img src="https://img.shields.io/badge/Oracle_SQL-F80000?style=for-the-badge&logo=oracle&logoColor=white" />
-<img src="https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=microsoftpowerbi&logoColor=black" />
+<img src="https://icon.icepanel.io/Technology/svg/MySQL.svg", width = 50, height = 50 />
+<img src="https://icon.icepanel.io/Technology/svg/PostgresSQL.svg", width = 50, height = 50 />
+<img src="https://img.icons8.com/?size=100&id=Ny0t2MYrJ70p&format=png&color=000000", width = 50, height = 50 />
 </div>
 
-**Segurança & Infraestrutura**
+**Segurança e Infraestrutura**
 
 <div style="display: inline-block">
-<img src="https://img.shields.io/badge/Kali_Linux-557C94?style=for-the-badge&logo=kali-linux&logoColor=white" />
-<img src="https://img.shields.io/badge/Linux_Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white" />
-<img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
+<img src="https://icon.icepanel.io/Technology/svg/Debian.svg", width = 50, height = 50 />
+<img src="https://icon.icepanel.io/Technology/svg/Git.svg", width = 50, height = 50 />
+<img src="https://img.icons8.com/?size=100&id=101665&format=png&color=000000", width = 50, height = 50 />
+</div>
+
+**Outros**
+
+<div style="display: inline-block">
+<img src="https://icon.icepanel.io/Technology/png-shadow-512/Eclipse-IDE.png", width = 50, height = 50 />
+<img src="https://icon.icepanel.io/Technology/svg/Figma.svg", width = 50, height = 50 />
+<img src="https://icon.icepanel.io/Technology/svg/Visual-Studio-Code-%28VS-Code%29.svg", width = 50, height = 50 />
 </div>
 
 ---
