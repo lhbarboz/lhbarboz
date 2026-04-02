@@ -13,7 +13,7 @@ Iniciei minha jornada no desenvolvimento em 2022. Atualmente, curso o 7º semest
 
 * 📍 Baseada em: Campo Grande/MS
 * 🔭 Atualmente trabalhando como: Auxiliar de Suporte
-* 🌱 Estudando no momento: Web Full Stack (The Odin Project), Segurança da Informação, Engenharia de Requisitos, Sistemas de Apoio à Decisão, Gerência de Configuração de Software, Interação Humano-Computador e Governança de TI.
+* 🌱 Estudando no momento: Java Backend, Segurança da Informação, Engenharia de Requisitos, Sistemas de Apoio à Decisão, Gerência de Configuração de Software, Interação Humano-Computador e Governança de TI.
 
 ---
 
